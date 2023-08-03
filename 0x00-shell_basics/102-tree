@@ -1,2 +1,2 @@
- #!/bin/bash
-rm -rf *~
+#!/bin/bash
+mkdir -p welcome/to/school/
