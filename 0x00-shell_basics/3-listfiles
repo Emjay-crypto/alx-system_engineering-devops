@@ -1,8 +1,2 @@
 #!/bin/bash
 ls -l
-
--rw-r--r-- 1 996 992 100 0-current_working_directory
--rw-r--r-- 1 996 992 19 1-listit
--rw-r--r-- 1 996 992 17 2-bring_me_home
--rw-r--r-- 1 996 992 18 3-listfiles
--rw-r--r-- 1 996 992 20 4-listmorefiles

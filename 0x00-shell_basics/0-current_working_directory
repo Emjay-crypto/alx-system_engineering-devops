@@ -1,9 +1,2 @@
 #!/bin/bash
-
-# Check if README.md exists and is not empty
-if [ -s "README.md" ]; then
-    # Print the absolute path name of the current working directory
-    pwd
-else
-    echo "README.md does not exist or is empty."
-fi
+pwd
