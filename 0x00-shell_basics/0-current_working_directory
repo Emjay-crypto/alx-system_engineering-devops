@@ -1,4 +1,9 @@
 #!/bin/bash
-current_dir=$(pwd)
-echo "Absolute path of the current working directory: $current_dir"
 
+# Check if README.md exists and is not empty
+if [ -s "README.md" ]; then
+    # Print the absolute path name of the current working directory
+    pwd
+else
+    echo "README.md does not exist or is empty."
+fi
