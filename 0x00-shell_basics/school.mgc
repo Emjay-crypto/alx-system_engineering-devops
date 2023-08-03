@@ -1,0 +1,9 @@
+ #!/bin/bash
+ls -xamp
+19. Vi edito wust
+0 string SCHOOL School data
+!:mime School
+
+Terminal lay
+
+file -C -m school.mgc
