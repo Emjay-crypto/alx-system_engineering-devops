@@ -1,0 +1,2 @@
+#!/bin/bash 
+ lecho $(($BREATH ** $LOVE))
